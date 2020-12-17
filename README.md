@@ -4,5 +4,7 @@ Sensor Calibrator is a regression system that brings the measured value on the s
 
 The following graph shows the value of DHT11 using deep learning and linear regression after validating using StratifiedShuffleSplit and K-Fold.
 ![LM35](https://github.com/yafiarkan/sensor-calibrator/blob/main/LM35.png)
+![LM35_1](https://github.com/yafiarkan/sensor-calibrator/blob/main/LM35_1.png)
+
 
 
